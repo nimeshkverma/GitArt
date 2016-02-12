@@ -3,3 +3,4 @@ setup.cfg
 setup.py
 GitArt/Heart.py
 GitArt/__init__.py
+GitArt/config.py
