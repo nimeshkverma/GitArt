@@ -4,6 +4,8 @@
 
 Presently allows users to Create Heart Shape on their GitHub Profile Contibution Summary
 
+![Repo Tree](https://github.com/nimeshkverma/GitArt/blob/master/images/HeartPreview.jpg)
+
 ## How To Make a Heart 
 - Install the Package using the command : `pip install GitArt`
 - Import the `Heart` module from `GitArt`
@@ -28,3 +30,5 @@ In a python script or python shell:-
  #To Get Heart with 10 commits per day and the heart border in the week = present_week -2
  git_heart_obj.create_heart(git_repo_url=weeks_from_now,max_commit=10,weeks_from_now= 2)
  ```
+
+![Repo Tree](https://github.com/nimeshkverma/GitArt/blob/master/images/NimQuote.jpg)
