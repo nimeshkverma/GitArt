@@ -31,4 +31,4 @@ In a python script or python shell:-
  git_heart_obj.create_heart(git_repo_url=weeks_from_now,max_commit=10,weeks_from_now= 2)
  ```
 
-![Repo Tree](https://github.com/nimeshkverma/GitArt/blob/master/images/NimQuote.jpg)
+![Repo Tree](https://github.com/nimeshkverma/GitArt/blob/master/images/NimSubtleQuote.jpg)
