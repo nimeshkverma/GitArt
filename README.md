@@ -28,7 +28,7 @@ In a python script or python shell:-
  git_heart_obj.create_heart(git_repo_url=git_repo_url)
 
  #To Get Heart with 10 commits per day and the heart border in the week = present_week -2
- git_heart_obj.create_heart(git_repo_url=git_repo_url, weeks_from_now=weeks_from_now, max_commit=10, weeks_from_now= 2)
+ git_heart_obj.create_heart(git_repo_url=git_repo_url, max_commits=10, weeks_from_now=2)
  ```
 
 Thanks <a href="https://github.com/locx">locx</a> for the idea :)
